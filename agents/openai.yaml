@@ -1,0 +1,4 @@
+interface:
+  display_name: "古早3D游戏美学"
+  short_description: "生成古早低规格 3D 游戏画面、视频、故事与剧本，并自动路由参考图"
+  default_prompt: "使用 $early-3d-game-aesthetic 将我的文字或参考图转换为可控的古早 3D 游戏美学。"
